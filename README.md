@@ -1,6 +1,7 @@
 # Jailbreak
 ## Google Antigravity IDE
 
+### Older Setup:
 - Works in older antigravity version
 - Select the module you wanna jailbreak
 - Press three dots on top of conversation (•••)
@@ -17,6 +18,8 @@
 - Enjoy!
 
 # Update
+## New Setup:
 in newer antigravity versions say gemini or other module to set global rules as before it was in older antigravity version easy, reliable and quick to edit ourselves.
-## Announcement
+
+# Announcement
 **Now only works on claude modules doesn't really work with gemini because it gets filtered.**
