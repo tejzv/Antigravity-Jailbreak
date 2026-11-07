@@ -17,4 +17,5 @@
 - Enjoy!
 
 # Update
-Now only works on claude modules doesn't really work with gemini because it gets filtered.
+## Announcement
+**Now only works on claude modules doesn't really work with gemini because it gets filtered.**
