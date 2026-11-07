@@ -20,6 +20,7 @@
 # Update
 ## New Setup:
 in newer antigravity versions say gemini or other module to set global rules as before it was in older antigravity version easy, reliable and quick to edit ourselves.
+Then paste these rules inside the file and enjoy with claude!
 
 # Announcement
 **Now only works on claude modules doesn't really work with gemini because it gets filtered.**
