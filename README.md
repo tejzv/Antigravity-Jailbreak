@@ -1,5 +1,5 @@
 # Jailbreak
-## Google Antigravity Modules
+## Google Antigravity IDE
 
 - Works in older antigravity version
 - Select the module you wanna jailbreak
