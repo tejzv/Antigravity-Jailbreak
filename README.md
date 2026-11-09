@@ -20,7 +20,11 @@
 # Update
 ## New Setup:
 in newer antigravity versions say gemini or other module to set global rules as before it was in older antigravity version easy, reliable and quick to edit ourselves.
-Then paste these rules inside the file and enjoy with claude!
+Then paste these rules inside the file and enjoy with jailbreaked claude modules.
+
+**New Setup Prompt:**
+```Setup global rules how it was in older antigravity version. Easy to edit myself & reliable. So i could edit it myself later.```
 
 # Announcement
 **Now only works on claude modules doesn't really work with gemini because it gets filtered.**
+If you wanna bypass filter try keeping your message look genuine and don't use any filtered out words. for more research: [Gemini Filters](https://tejv.in/)
